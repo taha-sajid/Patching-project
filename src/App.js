@@ -5,7 +5,7 @@ function App() {
 // HEAD
   console.log('Hello world ');
   console.log('checking request');
-  console.log('checking ');
+  console.log('checking');
 
   return (
     <div className="App border-red-500 border-1  w-[100%] flex flex-col">
