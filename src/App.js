@@ -1,13 +1,12 @@
 import TopNavbar from "./Component/TopNavbar";
 import HomeScreen from "./Screens/MainScreen/HomeScreen";
 
-
 function App() {
-  console.log('Taha sajid bklol he');
+  console.log("Taha sajid ganchu he");
   return (
     <div className="App border-red-500 border-1  w-[100%] flex flex-col">
-     <TopNavbar/>
-     <HomeScreen/>
+      <TopNavbar />
+      <HomeScreen />
     </div>
   );
 }
