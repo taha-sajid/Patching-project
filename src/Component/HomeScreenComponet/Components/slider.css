@@ -1,0 +1,25 @@
+#bgCss-1{
+    background-image: url('../../../Assets/banner-digitizing.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100%;
+    
+}
+#bgCss-2{
+    background-image: url('../../../Assets/banner-patch.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100%;
+    
+}
+#bgCss-3{
+    background-image: url('../../../Assets/banner-vector.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100%;
+    
+}
+
+.div-height{
+    height:90vh;
+}
